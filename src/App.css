@@ -1,0 +1,16 @@
+.item {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+}
+.items {
+  text-align: center;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+}
+.items p:nth-child(3) {
+  width: 62%;
+  margin: 0 auto;
+  text-align: left;
+}
